@@ -14,3 +14,4 @@ options:
   --speed SPEED         Set the scroll speed (higher is faster).
   --group GROUP         Set the grouping number.
 ```
+![Matrix Proof of Concept Gif](MatrixPoC.gif?raw=true)
