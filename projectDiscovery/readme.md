@@ -1,26 +1,5 @@
 # Files:
 
-- Compile Date: 2/8/2025 - File: aix.exe <br>
-- Compile Date: 2/8/2025 - File: alterx.exe <br>
-- Compile Date: 2/8/2025 - File: asnmap.exe <br>
-- Compile Date: 2/8/2025 - File: cdncheck.exe <br>
-- Compile Date: 2/8/2025 - File: chaos-client.exe <br>
-- Compile Date: 2/8/2025 - File: cloudlist.exe <br>
-- Compile Date: 2/8/2025 - File: cvemap.exe <br>
-- Compile Date: 2/8/2025 - File: dnsx.exe <br>
-- Compile Date: 2/8/2025 - File: httpx.exe <br>
-- Compile Date: 2/8/2025 - File: interactsh-server.exe <br>
 - Compile Date: 2/8/2025 - File: katana.exe <br>
-- Compile Date: 2/8/2025 - File: mapcidr.exe <br>
 - Compile Date: 2/8/2025 - File: naabu.exe <br>
-- Compile Date: 2/8/2025 - File: notify.exe <br>
 - Compile Date: 2/8/2025 - File: nuclei.exe <br>
-- Compile Date: 2/8/2025 - File: pdtm.exe <br>
-- Compile Date: 2/8/2025 - File: proxify.exe <br>
-- Compile Date: 2/8/2025 - File: shuffledns.exe <br>
-- Compile Date: 2/8/2025 - File: simplehttpserver.exe <br>
-- Compile Date: 2/8/2025 - File: subfinder.exe <br>
-- Compile Date: 2/8/2025 - File: tldfinder.exe <br>
-- Compile Date: 2/8/2025 - File: tlsx.exe <br>
-- Compile Date: 2/8/2025 - File: uncover.exe <br>
-- Compile Date: 2/8/2025 - File: urlfinder.exe <br>
